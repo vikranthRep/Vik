@@ -1,0 +1,2 @@
+echo "hello world"
+ps -ef | grep java
